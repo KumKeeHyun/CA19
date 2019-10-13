@@ -9,7 +9,7 @@ void printarr(int arr[], int n){
 }
 
 int main(){
-	int arrOri[5] = {2,12,-1,10,7};
+	int arrOri[5] = {2,1,3,7,5};
 	int arrCpy[5] = {0, };
 	int num = 5;
 
